@@ -1,1 +1,3 @@
-My new project
+## Mastering Javascript
+
+#### One of my first project
